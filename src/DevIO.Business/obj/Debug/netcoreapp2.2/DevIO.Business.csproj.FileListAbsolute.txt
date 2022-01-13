@@ -1,0 +1,10 @@
+D:\Projetos\MInhaAPICompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+D:\Projetos\MInhaAPICompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Projetos\MInhaAPICompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Projetos\MInhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.AssemblyReference.cache
+D:\Projetos\MInhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\MInhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+D:\Projetos\MInhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+D:\Projetos\MInhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\Projetos\MInhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Projetos\MInhaAPICompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb

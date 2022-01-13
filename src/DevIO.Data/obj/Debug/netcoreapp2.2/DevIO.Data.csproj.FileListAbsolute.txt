@@ -1,0 +1,13 @@
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.AssemblyReference.cache
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Projetos\MInhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
